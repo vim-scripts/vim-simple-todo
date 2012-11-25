@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4323
+
+May be this is the smallest VIM plugin in the world. It adds some useful
+mappings for manage simple TODO lists and nothing more.
+
+All this mappings work the same on NORMAL and INSERT modes.
+
+,i      create new todo under cursor
+,o      create new todo below current line
+,O      create new todo above current line
+,x      mark todo under cursor as done
+,X      mark todo as undone
+
