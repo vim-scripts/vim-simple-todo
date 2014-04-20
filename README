@@ -3,6 +3,17 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4323
 May be this is the smallest VIM plugin in the world. It adds some useful
 mappings for manage simple TODO lists and nothing more.
 
+[x] Create plugin
+[x] Add help documentation
+[x] Publish to GitHub
+[ ] Spread the word
+
+Plugin supports GitHub-like task lists
+(https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments) as well.
+
+- [x] Support markdown list markers
+- [x] So it's easy to create tasks in issues or pull requests on GitHub
+
 All this mappings work the same on NORMAL and INSERT modes.
 
 ,i      create new todo under cursor
